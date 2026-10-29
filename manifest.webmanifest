@@ -1,0 +1,18 @@
+{
+  "name": "NEPSE Signal Desk",
+  "short_name": "NEPSE Desk",
+  "description": "Technical analysis, model calls and trade plans for every NEPSE-listed stock.",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f2f4f2",
+  "theme_color": "#1d5d8f",
+  "categories": ["finance", "business"],
+  "icons": [
+    {"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
